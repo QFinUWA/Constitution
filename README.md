@@ -2,4 +2,4 @@
 
 First Edition: Domenico Sauta, 2021
 <br>
-Last Modified by: Sithum Somarathna and Chloe Chang, 2024
+Last Modified by: Chloe Chang. Seconded by Philip Shen - 2025
